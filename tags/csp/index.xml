@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSP on Suraj Bhosale</title>
+    <link>https://surajbhosale.dev/tags/csp/</link>
+    <description>Recent content in CSP on Suraj Bhosale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 May 2020 20:54:37 +0530</lastBuildDate>
+    
+	<atom:link href="https://surajbhosale.dev/tags/csp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concurrency_in_golang</title>
+      <link>https://surajbhosale.dev/posts/concurrency_in_golang/</link>
+      <pubDate>Sun, 24 May 2020 20:54:37 +0530</pubDate>
+      
+      <guid>https://surajbhosale.dev/posts/concurrency_in_golang/</guid>
+      <description>Work in progress, Please stay tuned</description>
+    </item>
+    
+  </channel>
+</rss>
